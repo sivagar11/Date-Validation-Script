@@ -1,0 +1,8 @@
+# date_formats.txt
+%m/%d/%Y
+%m/%d/%Y %I:%M %p
+%b %d, %Y
+%B %d, %Y
+%m/%d/%Y %I:%M %p
+%d-%b-%y
+%B %d, %Y
